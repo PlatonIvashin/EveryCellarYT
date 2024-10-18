@@ -21,13 +21,13 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hello 👋, I'm Platon</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pie-with-jam&label=Profile%20views&color=0e75b6&style=flat" alt="pie-with-jam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PlatonIvashin&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pie-with-jam" alt="pie-with-jam" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PlatonIvashin" alt="trophy" /></a> </p>
 
 - 🔭 I’m currently working on [AcronixOS](https://github.com/PlatonIvashin/AcronixOS)
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **iplaton12@mail.ru**
 
