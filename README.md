@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Find me now:</h3>
 <p align="left">
-<a href="https://t.me/iplaton12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="my telegram" height="30" width="40" /></a>
+<a href="https://vk.com/ever1cxllar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="my telegram" height="30" width="40" /></a>
 <a href="https://x.com/@ever1cxllar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="my X (twt)" height="30" width="40" /></a>
 </p>
 
