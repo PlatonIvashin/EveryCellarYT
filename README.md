@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **iplaton12@mail.ru**
 
-- ⚡ Fun fact **I'm just like everyone else**
+- ⚡ Fun fact **AcronixOS 2.0 will get GUI**
 
 <h3 align="left">Find me now:</h3>
 <p align="left">
